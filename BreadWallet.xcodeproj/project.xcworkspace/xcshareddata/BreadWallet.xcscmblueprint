@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "780C39F8043CD9C04A5EA1D8628E5EE25E4D50B6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "780C39F8043CD9C04A5EA1D8628E5EE25E4D50B6" : 9223372036854775807,
+    "89A5E58482D8620A30DE4E9857B72FF8047DA8B2" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B4AFC891-1937-4F64-B9A7-04EE17CB561A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "780C39F8043CD9C04A5EA1D8628E5EE25E4D50B6" : "breadwallet\/",
+    "89A5E58482D8620A30DE4E9857B72FF8047DA8B2" : "breadwallet\/secp256k1\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BreadWallet",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BreadWallet.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/breadwallet\/breadwallet.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "780C39F8043CD9C04A5EA1D8628E5EE25E4D50B6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bitcoin\/secp256k1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "89A5E58482D8620A30DE4E9857B72FF8047DA8B2"
+    }
+  ]
+}
